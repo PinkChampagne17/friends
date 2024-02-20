@@ -1,1 +1,3 @@
 # friends
+
+No new friends
