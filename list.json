@@ -1,26 +1,36 @@
-[
-  {
-    "avatar": "https://avatars.githubusercontent.com/u/3102803?v=4",
-    "description": "总是背着我吃好吃的老二刺螈，人格类型: ACGN",
-    "name": "Frantic1048",
-    "url": "https://pyonpyon.today"
-  },
-  {
-    "avatar": "https://avatars.githubusercontent.com/u/10811862?v=4",
-    "description": "元气满满吉他主唱",
-    "name": "羽灵光",
-    "url": "https://fsl.moe"
-  },
-  {
-    "avatar": "https://blog.shion-nya.moe/wp-content/img/avatar.jpg",
-    "description": "只是一隻被貓娘養大的狐娘",
-    "name": "詩音",
-    "url": "https://blog.shion-nya.moe"
-  },
-  {
-    "avatar": "https://alikia2x.com/img/avatar.webp",
-    "description": "一位有着大大梦想和菜菜技术的学生开发者",
-    "name": "寒寒",
-    "url": "https://alikia2x.com/"
-  }
-]
+{
+  "friends": [
+    {
+      "description": "总是背着我吃好吃的老二刺螈，人格类型: ACGN",
+      "gitHubId": 3102803,
+      "name": "Frantic1048",
+      "url": "https://pyonpyon.today"
+    },
+    {
+      "description": "元气满满吉他主唱",
+      "gitHubId": 10811862,
+      "name": "羽灵光",
+      "url": "https://fsl.moe"
+    },
+    {
+      "avatar": {
+        "default": "https://blog.shion-nya.moe/wp-content/img/avatar.jpg",
+        "sources": [
+          {
+            "type": "webp",
+            "src": "https://o.n1mp.org/avatar.webp?url=https%3A%2F%2Fca.nfs.pub%2Fnyaone%2Fe371530c-4fca-4b59-87b5-0a9414002fad.webp&avatar=1"
+          }
+        ]
+      },
+      "description": "只是一隻被貓娘養大的狐娘",
+      "name": "詩音",
+      "url": "https://blog.shion-nya.moe"
+    },
+    {
+      "avatar": "https://alikia2x.com/img/avatar.webp",
+      "description": "一位有着大大梦想和菜菜技术的学生开发者",
+      "name": "寒寒",
+      "url": "https://alikia2x.com/"
+    }
+  ]
+}
