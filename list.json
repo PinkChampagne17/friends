@@ -9,6 +9,7 @@
     {
       "description": "元气满满吉他主唱",
       "githubId": 10811862,
+      "hrefLang": "en",
       "name": "羽灵光",
       "url": "https://fsl.moe"
     },
@@ -23,6 +24,8 @@
         ]
       },
       "description": "只是一隻被貓娘養大的狐娘",
+      "hrefLang": "zh-TW",
+      "lang": "zh-TW",
       "name": "詩音",
       "url": "https://blog.shion-nya.moe"
     },
