@@ -1,45 +1,61 @@
 {
+  "$schema": "https://pcp.moe/friends/json-schema",
   "friends": [
     {
-      "description": "总是背着我吃好吃的老二刺螈，人格类型：ACGN",
-      "githubId": 3102803,
+      "avatar": "https://avatars.githubusercontent.com/u/3102803?v=4",
+      "url": "https://pyonpyon.today",
       "name": "Frantic1048",
-      "url": "https://pyonpyon.today"
+      "description": "总是背着我吃好吃的老二刺螈，人格类型：ACGN",
+      "lang": "zh-CN",
+      "hrefLang": "zh-CN"
     },
     {
-      "description": "元气满满吉他主唱",
-      "githubId": 10811862,
-      "hrefLang": "en",
+      "avatar": "https://avatars.githubusercontent.com/u/10811862?v=4",
+      "url": "https://fsl.moe",
       "name": "羽灵光",
-      "url": "https://fsl.moe"
+      "description": "元气满满吉他主唱",
+      "lang": "zh-CN",
+      "hrefLang": "en"
     },
     {
       "avatar": {
-        "default": "https://blog.shion-nya.moe/wp-content/img/avatar.jpg",
+        "src": "https://blog.shion-nya.moe/wp-content/img/avatar.jpg",
         "sources": [
           {
             "type": "webp",
-            "src": "https://o.n1mp.org/avatar.webp?url=https%3A%2F%2Fca.nfs.pub%2Fnyaone%2Fe371530c-4fca-4b59-87b5-0a9414002fad.webp&avatar=1"
+            "srcset": "https://o.n1mp.org/avatar.webp?url=https%3A%2F%2Fca.nfs.pub%2Fnyaone%2Fe371530c-4fca-4b59-87b5-0a9414002fad.webp&avatar=1"
           }
         ]
       },
+      "url": "https://blog.shion-nya.moe",
+      "name": "詩音",
       "description": "只是一隻被貓娘養大的狐娘",
       "hrefLang": "zh-TW",
-      "lang": "zh-TW",
-      "name": "詩音",
-      "url": "https://blog.shion-nya.moe"
+      "lang": "zh-TW"
     },
     {
-      "avatar": "https://alikia2x.com/img/avatar.png",
+      "avatar": {
+        "src": "https://alikia2x.com/img/avatar.png",
+        "sources": [
+          {
+            "type": "webp",
+            "srcset": "https://alikia2x.com/img/avatar.webp"
+          }
+        ]
+      },
+      "url": "https://alikia2x.com/",
       "description": "一位有着大大梦想和菜菜技术的学生开发者",
       "name": "寒寒",
-      "url": "https://alikia2x.com/"
+      "lang": "zh-CN",
+      "hrefLang": "en"
     },
     {
       "avatar": "https://rainx.moe/images/rainx-moe-avatar-512.webp",
-      "description": "萌新“老”二刺螈，也喜欢看 K-pop 女团",
+      "url": "https://rainx.moe",
       "name": "润埃克斯",
-      "url": "https://rainx.moe"
+      "description": "萌新“老”二刺螈，也喜欢看 K-pop 女团",
+      "lang": "zh-CN",
+      "hrefLang": "zh-CN"
     }
   ]
 }
