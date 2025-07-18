@@ -1,5 +1,5 @@
 {
-  "$schema": "https://pcp.moe/friends/json-schema",
+  "$schema": "https://pcp.moe/friends/schema.json",
   "friends": [
     {
       "avatar": "https://avatars.githubusercontent.com/u/3102803?v=4",
