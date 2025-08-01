@@ -23,7 +23,7 @@
         "sources": [
           {
             "type": "webp",
-            "srcset": "https://o.n1mp.org/avatar.webp?url=https%3A%2F%2Fca.nfs.pub%2Fnyaone%2Fe371530c-4fca-4b59-87b5-0a9414002fad.webp&avatar=1"
+            "src": "https://o.n1mp.org/avatar.webp?url=https%3A%2F%2Fca.nfs.pub%2Fnyaone%2Fe371530c-4fca-4b59-87b5-0a9414002fad.webp&avatar=1"
           }
         ]
       },
@@ -39,7 +39,7 @@
         "sources": [
           {
             "type": "webp",
-            "srcset": "https://alikia2x.com/img/avatar.webp"
+            "src": "https://alikia2x.com/img/avatar.webp"
           }
         ]
       },

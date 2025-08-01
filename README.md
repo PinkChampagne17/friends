@@ -22,9 +22,17 @@ type Avatar =
       sources?: AvatarSource[];
     };
 
-interface AvatarSource {
+type AvatarSource = {
   media?: string;
-  srcset: string;
   type?: "apng" | "avif" | "gif" | "jpeg" | "png" | "svg+xml" | "webp";
-}
+} & (
+  | {
+      src: string;
+      srcset?: string;
+    }
+  | {
+      src?: string;
+      srcset: string;
+    }
+);
 ```
