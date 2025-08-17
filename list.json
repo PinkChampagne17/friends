@@ -23,7 +23,7 @@
         "sources": [
           {
             "type": "webp",
-            "src": "https://o.n1mp.org/avatar.webp?url=https%3A%2F%2Fca.nfs.pub%2Fnyaone%2Fe371530c-4fca-4b59-87b5-0a9414002fad.webp&avatar=1"
+            "srcset": "https://o.n1mp.org/avatar.webp?url=https%3A%2F%2Fca.nfs.pub%2Fnyaone%2Fe371530c-4fca-4b59-87b5-0a9414002fad.webp&avatar=1"
           }
         ]
       },
@@ -34,15 +34,7 @@
       "lang": "zh-TW"
     },
     {
-      "avatar": {
-        "src": "https://alikia2x.com/img/avatar.png",
-        "sources": [
-          {
-            "type": "webp",
-            "src": "https://alikia2x.com/img/avatar.webp"
-          }
-        ]
-      },
+      "avatar": "https://avatars.githubusercontent.com/u/87868889?v=4",
       "url": "https://alikia2x.com/",
       "description": "一位有着大大梦想和菜菜技术的学生开发者",
       "name": "寒寒",
